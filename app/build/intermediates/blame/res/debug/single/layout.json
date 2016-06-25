@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/layout/activity_skip.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/layout/activity_skip.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/layout/detial_picture_item.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/layout/detial_picture_item.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/layout/picture_item.xml",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/layout/picture_item.xml"
+    }
+]

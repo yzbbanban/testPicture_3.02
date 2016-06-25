@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ic_laucher_01"
+    tools:context="com.wb.testpicture.SkipActivity">
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:background="#000000"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="center"
+        android:singleLine="true"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:focusable="true"
+        android:textColor="@color/light_red"
+        android:focusableInTouchMode="true"
+        android:text="美女图库" />
+
+    <GridView
+
+        android:id="@+id/gv_skip_image"
+        android:numColumns="1"
+        android:verticalSpacing="5dp"
+        android:gravity="center_horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></GridView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+</LinearLayout>

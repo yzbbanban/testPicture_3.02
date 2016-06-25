@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_background_04.jpg",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/drawable-hdpi/ic_background_04.jpg"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_laucher_01.JPG",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/drawable-hdpi/ic_laucher_01.JPG"
+    },
+    {
+        "merged": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/back.jpg",
+        "source": "/Users/YZBbanban/Downloads/android 程序/xiaohua/testPicture/app/src/main/res/drawable-hdpi/back.jpg"
+    }
+]
